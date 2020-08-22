@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </a>
 <br />
 
-## I'm a Brother, Developer, and part time Teacher!
+## I'm a Web Developer and Freelancer !
 
 - 🔭 I’m currently working on PHP, Asp.Net and Java projects
 - 🌱 I’m currently learning Data Science
