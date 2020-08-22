@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![image](https://github.com/umagol/umagol/blob/master/githubImg.png)](https://github.com/PrashantGaikwad-iOS?tab=repositories)
+[![image](https://github.com/umagol/umagol/blob/master/githubImg.png)](https://github.com/umagol?tab=repositories)
 
 ### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
+|<img src="https://hackr.io/tutorials/c-plus-plus/logo-c-plus-plus.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="http://www.ckcc.edu.kh/images/ICT-gellary/Java-logo.jpg" width=60> |<img src="<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> " width=60> 
 |:---:|:---:|:---:|
 
 
