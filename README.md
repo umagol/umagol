@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 
 [![image](https://github.com/umagol/umagol/blob/master/githubImg.png)](https://github.com/PrashantGaikwad-iOS?tab=repositories)
 
+### Programming Languages  :rocket:
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
+|:---:|:---:|:---:|
+
+
+### Tools :fire:
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellig.png" width=60> |
+|:---:|:---:|:---:|
+
 
 <br/>
 <a href="https://twitter.com/umagolsatish">
