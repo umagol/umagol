@@ -29,7 +29,7 @@
 - 🔭 I’m currently working on PHP, Asp.Net and Java projects
 - 🌱 I’m currently learning Data Science
 <!--- 👯 I’m looking to collaborate with other content creators-->
-- 💬 Ask me about Java,PHP,JQuery... 😛
+<!--- 💬 Ask me about Java,PHP,JQuery... 😛-->
 - 🥅 Goals: Contribute to Open Source projects and work on new project's
 - ⚡ Fun fact: I love long drives on Royal Enfield and Reading Book's with Coffee
 <!--- 🤔 I’m looking for help with growing My StartUp-->
