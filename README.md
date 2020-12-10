@@ -9,8 +9,11 @@
 ### Programming Languages  :rocket:
 |<img src="https://hackr.io/tutorials/c/logo-c.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="http://www.ckcc.edu.kh/images/ICT-gellary/Java-logo.jpg" width=60> |<img src="http://blog.jaforiqbal.com/wp-content/uploads/2019/01/logo-php.png" width=60>  |
 
+### Web Framework
+|<img src="https://hackr.io/tutorials/c/logo-c.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | 
+
 ### Tools :fire:
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://cdn.iconscout.com/icon/free/png-512/eclipse-14-282371.png" width=60> |
+|<img src="https://en.wikipedia.org/wiki/Angular_(web_framework)#/media/File:Angular_full_color_logo.svg" width=60> | <img src="https://en.wikipedia.org/wiki/Vue.js#/media/File:Vue.js_Logo_2.svg" width=60> |
 
 <br/>
 <a href="https://twitter.com/umagolsatish">
@@ -26,8 +29,8 @@
 
 ## I'm a Web Developer and Freelancer !
 
-- 🔭 I’m currently working on PHP, Asp.Net and Java projects
-- 🌱 I’m currently learning Data Science
+- 🔭 I’m currently working on PHP, Angular-10, Vuejs-3 , Nodejs , ExpressJS and Java projects
+- 🌱 I’m currently learning Data Science, Reactjs , Laravel
 <!--- 👯 I’m looking to collaborate with other content creators-->
 <!--- 💬 Ask me about Java,PHP,JQuery... 😛-->
 - 🥅 Goals: Contribute to Open Source projects and work on new project's
