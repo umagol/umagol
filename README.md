@@ -7,7 +7,7 @@
 [![image](https://github.com/umagol/umagol/blob/master/img1.png)](https://github.com/umagol?tab=repositories)
 
 ### Programming Languages  :rocket:
-|<img src="https://hackr.io/tutorials/c/logo-c.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="http://www.ckcc.edu.kh/images/ICT-gellary/Java-logo.jpg" width=60> |<img src="http://blog.jaforiqbal.com/wp-content/uploads/2019/01/logo-php.png" width=60>  |
+|<img src="https://hackr.io/tutorials/c/logo-c.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://hackr.io/tutorials/java/logo-java.svg" width=60> |<img src="http://blog.jaforiqbal.com/wp-content/uploads/2019/01/logo-php.png" width=60>  |
 
 ### Web Framework
 |<img src="https://hackr.io/tutorials/angular/logo-angular.svg" width=60> | <img src="https://hackr.io/tutorials/vue-js/logo-vue-js.svg" width=60> | 
