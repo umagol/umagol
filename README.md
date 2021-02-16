@@ -15,24 +15,12 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=umagol.umagol)
 
-
-## I'm a Web Developer and Freelancer !
-
-- 🔭 I’m currently working on PHP, Angular-10, Vuejs-3 , Nodejs , ExpressJS and Java projects
-- 🌱 I’m currently learning Data Science, Reactjs , Laravel
-<!--- 👯 I’m looking to collaborate with other content creators-->
-<!--- 💬 Ask me about Java,PHP,JQuery... 😛-->
-- 🥅 Goals: Contribute to Open Source projects and work on new project's
-- ⚡ Fun fact: I love long drives on Royal Enfield and Reading Book's with Coffee
-<!--- 🤔 I’m looking for help with growing My StartUp-->
-- 📫 How to reach me: Email - umagol97@gmail.com
-- 🌐 Portfolio - https://umagol.github.io
-
+<br>
 
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/umagol/umagol/master/1*IRGHmiGsa16stedQvIaZfw.gif?raw=true" width="500" height="320" />
 
 
-- 📫 Portfolio: [satishumagol.com](https://umagol.github.io);
+- 🌐 Portfolio [satishumagol.com](https://umagol.github.io);
 - ✨ **Hire Me!** [Upwork](https://www.upwork.com/o/profiles/users/~01687c64ac9c54de20/)
 - 📝 [@Email](umagol97@gmail.com)
 
@@ -52,10 +40,10 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C++          13 hrs 16 mins  ███████████████████████▓░   94.44 % 
-Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+JavaScript   13 hrs 16 mins  ████████████████████▓░░░░   76.00 % 
+PHP/Java     21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+C/C++        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 <!--END_SECTION:waka-->
 
