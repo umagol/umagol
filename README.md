@@ -50,11 +50,4 @@ C/C++        16 mins         ▒░░░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 
-<!-- <p align="center"> <img src="https://github-readme-stats.codestackr.vercel.app/api?username=umagol&show_icons=true&theme=gotham" alt="Satish's Github Status"/> --> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umagol&langs_count=8" />
-</a>
-<a style="margin:100px" href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.codestackr.vercel.app/api?username=umagol&show_icons=true&theme=gotham" alt="Satish's Github Status"/>
-</a>  
+<p align="center"> <img src="https://github-readme-stats.codestackr.vercel.app/api?username=umagol&show_icons=true&theme=gotham" alt="Satish's Github Status"/> 
