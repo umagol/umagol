@@ -7,21 +7,34 @@
   <img align="left" alt="Satish Umagol LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://umagol.github.io/">
-  <img align="left" alt="Satish Umagol Portfolio" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/browser-logos/69.0.4/chromium/chromium_48x48.png" />
+  <img align="left" alt="Satish Umagol Portfolio" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
   <a href="https://www.npmjs.com/~satishumagol">
   <img alt="npm" title="npm" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg">
 </a>
-<br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=umagol.umagol)
 
+
+## I'm a Web Developer and Freelancer !
+
+- 🔭 I’m currently working on PHP, Angular-10, Vuejs-3 , Nodejs , ExpressJS and Java projects
+- 🌱 I’m currently learning Data Science, Reactjs , Laravel
+<!--- 👯 I’m looking to collaborate with other content creators-->
+<!--- 💬 Ask me about Java,PHP,JQuery... 😛-->
+- 🥅 Goals: Contribute to Open Source projects and work on new project's
+- ⚡ Fun fact: I love long drives on Royal Enfield and Reading Book's with Coffee
+<!--- 🤔 I’m looking for help with growing My StartUp-->
+- 📫 How to reach me: Email - umagol97@gmail.com
+- 🌐 Portfolio - https://umagol.github.io
+
+
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/umagol/umagol/master/1*IRGHmiGsa16stedQvIaZfw.gif?raw=true" width="500" height="320" />
 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@satishumagol](https://twitter.com/abhisheknaiidu);
-- ✨ ** Hire ME ** [calendly](https://www.upwork.com/o/profiles/users/~01687c64ac9c54de20/)
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+
+- 📫 Portfolio: [satishumagol.com](https://umagol.github.io);
+- ✨ **Hire Me!** [Upwork](https://www.upwork.com/o/profiles/users/~01687c64ac9c54de20/)
+- 📝 [@Email](umagol97@gmail.com)
 
 **Languages and Tools:**  
 
@@ -46,18 +59,6 @@ JSON         7 mins          ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
-## I'm a Web Developer and Freelancer !
-
-- 🔭 I’m currently working on PHP, Angular-10, Vuejs-3 , Nodejs , ExpressJS and Java projects
-- 🌱 I’m currently learning Data Science, Reactjs , Laravel
-<!--- 👯 I’m looking to collaborate with other content creators-->
-<!--- 💬 Ask me about Java,PHP,JQuery... 😛-->
-- 🥅 Goals: Contribute to Open Source projects and work on new project's
-- ⚡ Fun fact: I love long drives on Royal Enfield and Reading Book's with Coffee
-<!--- 🤔 I’m looking for help with growing My StartUp-->
-- 📫 How to reach me: Email - umagol97@gmail.com
-- 🌐 Portfolio - https://umagol.github.io
 
 
 
