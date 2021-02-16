@@ -1,4 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![image](https://github.com/umagol/umagol/blob/master/img1.png)](https://github.com/umagol?tab=repositories)
+
 <br>
 <a href="https://twitter.com/umagolsatish">
   <img align="left" alt="satish Umagol | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -6,7 +9,7 @@
 <a href="https://www.linkedin.com/in/satish-umagol-73b623172/">
   <img align="left" alt="Satish Umagol LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://umagol.github.io/">
+<a href="https://github.com/umagol">
   <img align="left" alt="Satish Umagol Portfolio" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
   <a href="https://www.npmjs.com/~satishumagol">
