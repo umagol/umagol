@@ -18,14 +18,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=umagol.umagol)
 
-I am Satish Umagol, Full Stack Developer  👨‍💻  . I am from Pune (Maharashtra).
-Currently working as Mean Stack developer in  🏢  Bharati Robotics System Pvt. Ltd. Before this i was working as web developer in 🏢 Voidstarindia LLP. 
-
-I have published one Angular Library(Package) Ang Storage on npm. I have good knowledge of 
-Laravel, Jquery, Javascript, Ajax and Asp.net core. I have created more than 5 websites using Angular as front-end and nodejs as backend. I can create any type of websites according to the requirements with full customization. Develop Mobile App in Ionic using Ionic as Front-end and nodejs as backend. 
-
-I have done my 👨‍🎓 BSC (Computer Science) from Pune University. Currently persuing my 👨‍🎓 MSC(Computer Science ) from Pune University.
-
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/umagol/umagol/master/1*IRGHmiGsa16stedQvIaZfw.gif?raw=true" width="500" height="320" />
 
 - 🌐 Portfolio [satishumagol.com](https://umagol.github.io);
@@ -40,6 +32,7 @@ I have done my 👨‍🎓 BSC (Computer Science) from Pune University. Currentl
 <code><img height="20" src="https://hackr.io/tutorials/angular/logo-angular.svg?ver=1590863531"></code>
 <code><img height="20" src="https://hackr.io/tutorials/mongodb/logo-mongodb.svg?ver=1610119112"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://hackr.io/tutorials/laravel/logo-laravel.svg?ver=1603206644"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -57,6 +50,11 @@ C/C++        16 mins         ▒░░░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.codestackr.vercel.app/api?username=umagol&show_icons=true&theme=gotham" alt="Satish's Github Status"/>
-
-
+<!-- <p align="center"> <img src="https://github-readme-stats.codestackr.vercel.app/api?username=umagol&show_icons=true&theme=gotham" alt="Satish's Github Status"/> --> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umagol&langs_count=8" />
+</a>
+<a style="margin:100px" href="https://github.com/anuraghazra/github-readme-stats">
+ <img src="https://github-readme-stats.codestackr.vercel.app/api?username=umagol&show_icons=true&theme=gotham" alt="Satish's Github Status"/>
+</a>  
