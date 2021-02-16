@@ -1,32 +1,51 @@
-### Hi there 👋
-
-<!--
-**umagol/umagol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-[![image](https://github.com/umagol/umagol/blob/master/img1.png)](https://github.com/umagol?tab=repositories)
-
-### Programming Languages  :rocket:
-|<img src="https://hackr.io/tutorials/c/logo-c.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://hackr.io/tutorials/java/logo-java.svg" width=60> |<img src="http://blog.jaforiqbal.com/wp-content/uploads/2019/01/logo-php.png" width=60>  |
-
-### Web Framework
-|<img src="https://hackr.io/tutorials/angular/logo-angular.svg" width=60> | <img src="https://hackr.io/tutorials/vue-js/logo-vue-js.svg" width=60> | 
-
-### Tools :fire:
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://cdn.iconscout.com/icon/free/png-512/eclipse-14-282371.png" width=60> |
-
-
-<br/>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br>
 <a href="https://twitter.com/umagolsatish">
-  <img align="left" alt="Satish Umagol | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="satish Umagol | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/satish-umagol-73b623172">
-  <img align="left" alt="SatishUmagol LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/satish-umagol-73b623172/">
+  <img align="left" alt="Satish Umagol LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://satish-umagol.blogspot.com/">
-  <img align="left" alt="Satish Umagol Blog " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/blogger.svg" />
+<a href="https://umagol.github.io/">
+  <img align="left" alt="Satish Umagol Portfolio" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/browser-logos/69.0.4/chromium/chromium_48x48.png" />
 </a>
-<br />
+  <a href="https://www.npmjs.com/~satishumagol">
+  <img alt="npm" title="npm" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg">
+</a>
+<br>
+
+![](https://visitor-badge.glitch.me/badge?page_id=umagol.umagol)
+
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/umagol/umagol/master/1*IRGHmiGsa16stedQvIaZfw.gif?raw=true" width="500" height="320" />
+
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@satishumagol](https://twitter.com/abhisheknaiidu);
+- ✨ ** Hire ME ** [calendly](https://www.upwork.com/o/profiles/users/~01687c64ac9c54de20/)
+- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+C++          13 hrs 16 mins  ███████████████████████▓░   94.44 % 
+Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+```
+<!--END_SECTION:waka-->
+
 
 ## I'm a Web Developer and Freelancer !
 
@@ -41,9 +60,9 @@
 - 🌐 Portfolio - https://umagol.github.io
 
 
-### Details:
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Satish's Github Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=umagol&show_icons=true&hide_border=true" />
-</details>
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.codestackr.vercel.app/api?username=umagol&show_icons=true&theme=gotham" alt="Satish's Github Status"/>
+
 
