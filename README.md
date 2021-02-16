@@ -18,10 +18,15 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=umagol.umagol)
 
-<br>
+I am Satish Umagol, Full Stack Developer  👨‍💻  . I am from Pune (Maharashtra).
+Currently working as Mean Stack developer in  🏢  Bharati Robotics System Pvt. Ltd. Before this i was working as web developer in 🏢 Voidstarindia LLP. 
+
+I have published one Angular Library(Package) Ang Storage on npm. I have good knowledge of 
+Laravel, Jquery, Javascript, Ajax and Asp.net core. I have created more than 5 websites using Angular as front-end and nodejs as backend. I can create any type of websites according to the requirements with full customization. Develop Mobile App in Ionic using Ionic as Front-end and nodejs as backend. 
+
+I have done my 👨‍🎓 BSC (Computer Science) from Pune University. Currently persuing my 👨‍🎓 MSC(Computer Science ) from Pune University.
 
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/umagol/umagol/master/1*IRGHmiGsa16stedQvIaZfw.gif?raw=true" width="500" height="320" />
-
 
 - 🌐 Portfolio [satishumagol.com](https://umagol.github.io);
 - ✨ **Hire Me!** [Upwork](https://www.upwork.com/o/profiles/users/~01687c64ac9c54de20/)
@@ -50,11 +55,7 @@ C/C++        16 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
-
-
 📈 My GitHub Stats
-
 
 <p align="center"> <img src="https://github-readme-stats.codestackr.vercel.app/api?username=umagol&show_icons=true&theme=gotham" alt="Satish's Github Status"/>
 
