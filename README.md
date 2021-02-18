@@ -53,6 +53,6 @@
 <img height="180em" width="320em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umagol&theme=radical&layout=compact&exclude_lang=javascript+r" />
 <!--END_SECTION:waka-->
 
-📈 My GitHub Stats
+📈 **My GitHub Stats**
 
 <p align="center"> <img src="https://github-readme-stats.codestackr.vercel.app/api?username=umagol&show_icons=true&theme=gotham" alt="Satish's Github Status"/> 
