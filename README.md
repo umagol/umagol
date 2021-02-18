@@ -2,6 +2,8 @@
 
 [![image](https://raw.githubusercontent.com/umagol/umagol/master/wall.gif)](https://github.com/umagol?tab=repositories)
 
+<br>
+
 ### Social Accout Link
 
 <a href="https://twitter.com/umagolsatish">
@@ -29,9 +31,9 @@
 
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/umagol/umagol/master/1*IRGHmiGsa16stedQvIaZfw.gif?raw=true" width="500" height="320" />
 
-- 🌐 **Portfolio** [satishumagol.com](https://umagol.github.io);
-- ✨ **Hire Me!** [Upwork](https://www.upwork.com/o/profiles/users/~01687c64ac9c54de20/)
-- 📝 **Email**[@Email](umagol97@gmail.com)
+- 🌐 **Portfolio**  [satishumagol.com](https://umagol.github.io);
+- ✨ **Hire Me!**  [Upwork](https://www.upwork.com/o/profiles/users/~01687c64ac9c54de20/)
+- 📝 **Email**  [@Email](umagol97@gmail.com)
 
 **Languages and Tools:**  
 
