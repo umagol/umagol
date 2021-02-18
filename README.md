@@ -51,12 +51,7 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-JavaScript  ████████████████████▓░░░░   13 hrs 16 mins
-PHP/Java    ▓░░░░░░░░░░░░░░░░░░░░░░░░   21 mins
-Other       ▒░░░░░░░░░░░░░░░░░░░░░░░░   7 mins
-C/C++       ▒░░░░░░░░░░░░░░░░░░░░░░░░   16 mins
-```
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umagol&theme=radical&layout=compact&exclude_lang=javascript+r" />
 <!--END_SECTION:waka-->
 
 📈 My GitHub Stats
