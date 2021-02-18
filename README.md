@@ -2,7 +2,8 @@
 
 [![image](https://raw.githubusercontent.com/umagol/umagol/master/wall.gif)](https://github.com/umagol?tab=repositories)
 
-<br>
+### Social Accout Link
+
 <a href="https://twitter.com/umagolsatish">
   <img align="left" alt="satish Umagol | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -22,13 +23,15 @@
   <img alt="npm" title="npm" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg">
 </a>
 
+<br>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=umagol.umagol)
 
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/umagol/umagol/master/1*IRGHmiGsa16stedQvIaZfw.gif?raw=true" width="500" height="320" />
 
-- 🌐 Portfolio [satishumagol.com](https://umagol.github.io);
+- 🌐 **Portfolio** [satishumagol.com](https://umagol.github.io);
 - ✨ **Hire Me!** [Upwork](https://www.upwork.com/o/profiles/users/~01687c64ac9c54de20/)
-- 📝 [@Email](umagol97@gmail.com)
+- 📝 **Email**[@Email](umagol97@gmail.com)
 
 **Languages and Tools:**  
 
@@ -47,10 +50,10 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   13 hrs 16 mins  ████████████████████▓░░░░   76.00 % 
-PHP/Java     21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-C/C++        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JavaScript  ████████████████████▓░░░░   13 hrs 16 mins
+PHP/Java    ▓░░░░░░░░░░░░░░░░░░░░░░░░   21 mins
+Other       ▒░░░░░░░░░░░░░░░░░░░░░░░░   7 mins
+C/C++       ▒░░░░░░░░░░░░░░░░░░░░░░░░   16 mins
 ```
 <!--END_SECTION:waka-->
 
