@@ -6,13 +6,19 @@
 <a href="https://twitter.com/umagolsatish">
   <img align="left" alt="satish Umagol | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://stackoverflow.com/users/13600516/satish-umagol">
+  <img align="left" alt="satish Umagol | stackoverflow" width="22px" src="https://www.accountingfly.com/wp-content/uploads/2019/03/stackoverflow.com-300.jpg" />
+</a>
+<a href="https://medium.com/@umagol97">
+  <img align="left" alt="satish Umagol | Medium" width="22px" src="https://miro.medium.com/fit/c/262/262/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" />
+</a>
 <a href="https://www.linkedin.com/in/satish-umagol-73b623172/">
   <img align="left" alt="Satish Umagol LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://github.com/umagol">
   <img align="left" alt="Satish Umagol Portfolio" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
-  <a href="https://www.npmjs.com/~satishumagol">
+<a href="https://www.npmjs.com/~satishumagol">
   <img alt="npm" title="npm" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg">
 </a>
 
