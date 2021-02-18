@@ -50,8 +50,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-<img height="180em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umagol&theme=radical&layout=compact&exclude_lang=javascript+r" />
+<img height="180em" width="320em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umagol&theme=radical&layout=compact&exclude_lang=javascript+r" />
 <!--END_SECTION:waka-->
 
 📈 My GitHub Stats
