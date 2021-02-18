@@ -51,7 +51,7 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-<img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umagol&theme=radical&layout=compact&exclude_lang=javascript+r" />
+<img height="180em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umagol&theme=radical&layout=compact&exclude_lang=javascript+r" />
 <!--END_SECTION:waka-->
 
 📈 My GitHub Stats
