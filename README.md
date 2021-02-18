@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![image](https://github.com/umagol/umagol/blob/master/img1.png)](https://github.com/umagol?tab=repositories)
+[![image](https://raw.githubusercontent.com/umagol/umagol/master/wall.gif)](https://github.com/umagol?tab=repositories)
 
 <br>
 <a href="https://twitter.com/umagolsatish">
