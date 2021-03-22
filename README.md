@@ -10,7 +10,7 @@
   <img align="left" alt="satish Umagol | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://stackoverflow.com/users/13600516/satish-umagol">
-  <img align="left" alt="satish Umagol | stackoverflow" width="22px" src="https://www.accountingfly.com/wp-content/uploads/2019/03/stackoverflow.com-300.jpg" />
+  <img align="left" alt="satish Umagol | stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
 </a>
 <a href="https://medium.com/@umagol97">
   <img align="left" alt="satish Umagol | Medium" width="22px" src="https://miro.medium.com/fit/c/262/262/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" />
