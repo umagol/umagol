@@ -12,20 +12,29 @@
 <a href="https://stackoverflow.com/users/13600516/satish-umagol">
   <img align="left" alt="satish Umagol | stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
 </a>
-<a href="https://medium.com/@umagol97">
+<a href="https://medium.com/@SatishUmagol">
   <img align="left" alt="satish Umagol | Medium" width="22px" src="https://miro.medium.com/fit/c/262/262/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" />
 </a>
 <a href="https://www.linkedin.com/in/satish-umagol-73b623172/">
   <img align="left" alt="Satish Umagol LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.linkedin.com/in/satish-umagol-73b623172/">
+  <img align="left" alt="Satish Umagol Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://www.linkedin.com/in/satish-umagol-73b623172/">
+  <img align="left" alt="Satish Umagol discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://dev.to/satishumagol">
+  <img  align="left" alt="Dev.to" title="Dev.to" height="24" width="24" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
+</a>
 <a href="https://github.com/umagol">
   <img align="left" alt="Satish Umagol Portfolio" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 <a href="https://www.npmjs.com/~satishumagol">
-  <img alt="npm" title="npm" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg">
+  <img  align="left" alt="npm" title="npm" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg">
 </a>
-
-<br>
+<br />
+<br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=umagol.umagol)
 
