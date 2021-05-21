@@ -65,4 +65,7 @@
 
 📈 **My GitHub Stats**
 
-<p align="center">![Satish Umagol's GitHub stats](https://github-readme-stats.vercel.app/api?username=umagol&hide=contribs,prs)
+<p align="center">
+<a href="https://github.com/umagol/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umagol&theme=dark" />
+</a>
