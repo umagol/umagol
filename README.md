@@ -164,7 +164,7 @@
     </a>
 </p>
 
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/umagol/umagol/master/1*IRGHmiGsa16stedQvIaZfw.gif?raw=true" width="450" />
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/umagol/umagol/master/1*IRGHmiGsa16stedQvIaZfw.gif?raw=true" width="400" />
            
 <br><br>
           
@@ -176,10 +176,10 @@
           
 📈 **My GitHub Stats**
 
-<p align="">
+<p align="center">
 <a href="https://github.com/umagol/github-readme-stats">
-  <img width="460" align="" src="https://github-readme-stats.vercel.app/api?username=umagol&theme=dark" />
-  <img width="460" align="" src="https://github-readme-streak-stats.herokuapp.com/?user=umagol&theme=dark" />
+  <img width="400" align="" src="https://github-readme-stats.vercel.app/api?username=umagol&theme=dark" />
+  <img width="400" align="" src="https://github-readme-streak-stats.herokuapp.com/?user=umagol&theme=dark" />
 </a>
 </p>
 
