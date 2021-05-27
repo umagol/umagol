@@ -65,7 +65,15 @@
 
 📈 **My GitHub Stats**
 
-<p align="center">
+<p align="">
 <a href="https://github.com/umagol/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umagol&theme=dark" />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=umagol&theme=dark" />
 </a>
+  
+  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=umagol&theme=dark)
+
+</p>
+
+<h3 align="center"> ⚙️  GitHub Analytics </h3>
+<img src="https://activity-graph.herokuapp.com/graph?username=umagol&theme=react-dark" />
+
