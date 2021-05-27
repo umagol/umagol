@@ -14,8 +14,13 @@
     <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
     <img src="https://camo.githubusercontent.com/c1a01ddb58e7b6923314da9ad1142f993a25ffc8d31183bc1ffe66ea386697af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666f6375732d46756c6c537461636b2d627269676874677265656e" />
     
+
+- 🌐 **Portfolio**  [satishumagol.com](https://umagol.github.io)
+- ✨ **Hire Me!**  [Upwork](https://www.upwork.com/o/profiles/users/~01687c64ac9c54de20/)
+- 📝 **Email**  [@Email](umagol97@gmail.com)
+
     
-### Social Accout Link
+### -  Social Accout Link
 
 <a href="https://twitter.com/umagolsatish">
   <img align="left" alt="satish Umagol | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -45,7 +50,9 @@
   <img  align="left" alt="npm" title="npm" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg">
 </a>
 
-<h3 align="left">🌐 Languages and Tools:</h3>
+<br>
+
+<h3 align="left"> - Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.python.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
@@ -157,33 +164,16 @@
     </a>
 </p>
 
-<br />
-<br />
-
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/umagol/umagol/master/1*IRGHmiGsa16stedQvIaZfw.gif?raw=true" width="500" height="320" />
-
-- 🌐 **Portfolio**  [satishumagol.com](https://umagol.github.io)
-- ✨ **Hire Me!**  [Upwork](https://www.upwork.com/o/profiles/users/~01687c64ac9c54de20/)
-- 📝 **Email**  [@Email](umagol97@gmail.com)
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://hackr.io/tutorials/angular/logo-angular.svg?ver=1590863531"></code>
-<code><img height="20" src="https://hackr.io/tutorials/mongodb/logo-mongodb.svg?ver=1610119112"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://hackr.io/tutorials/laravel/logo-laravel.svg?ver=1603206644"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/umagol/umagol/master/1*IRGHmiGsa16stedQvIaZfw.gif?raw=true" width="450" />
+           
+<br><br>
+          
 <!--📊 **This Week I Spent My Time On:**-->
-<img height="180em" width="320em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umagol&theme=radical&layout=compact&exclude_lang=javascript+r" />
+<img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umagol&theme=radical&layout=compact&exclude_lang=javascript+r" />
 <!--END_SECTION:waka-->
 
+<br>
+          
 📈 **My GitHub Stats**
 
 <p align="">
