@@ -10,9 +10,12 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=umagol.umagol)
   <a href="https://github.com/umagol?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <a href="mailto:umagol97@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20umagol :wave:,%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
-    <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
-    <img src="https://camo.githubusercontent.com/c1a01ddb58e7b6923314da9ad1142f993a25ffc8d31183bc1ffe66ea386697af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666f6375732d46756c6c537461636b2d627269676874677265656e" />
+    <a href="mailto:umagol97@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20umagol :wave:,%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to...">
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
+  
+  <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
+  
+  <img src="https://camo.githubusercontent.com/c1a01ddb58e7b6923314da9ad1142f993a25ffc8d31183bc1ffe66ea386697af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666f6375732d46756c6c537461636b2d627269676874677265656e" />
     
 
 - 🌐 **Portfolio**  [satishumagol.com](https://umagol.github.io)
@@ -41,16 +44,18 @@
   <img align="left" alt="Satish Umagol discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://dev.to/satishumagol">
-  <img  align="left" alt="Dev.to" title="Dev.to" height="24" width="24" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
+  <img  align="left" alt="Dev.to" title="Dev.to" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
 </a>
 <a href="https://github.com/umagol">
   <img align="left" alt="Satish Umagol Portfolio" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 <a href="https://www.npmjs.com/~satishumagol">
-  <img  align="left" alt="npm" title="npm" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg">
+  <img  align="left" alt="npm" title="npm"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg">
 </a>
 
-<br>
+<br/>
+<br/>
+
 
 <h3 align="left"> - Languages and Tools:</h3>
 <p align="left">
