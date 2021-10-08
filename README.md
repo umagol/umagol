@@ -200,3 +200,10 @@
 <h3 align="center"> ⚙️  GitHub Analytics </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=umagol&theme=react-dark" />
 
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umagol&column=7&theme=onedark" />
+</div>
+
+          
