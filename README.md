@@ -36,9 +36,9 @@
 <a href="https://www.linkedin.com/in/satish-umagol-73b623172/">
   <img align="left" alt="Satish Umagol LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/satish-umagol-73b623172/">
-  <img align="left" alt="Satish Umagol Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+<!-- <a href="https://www.linkedin.com/in/satish-umagol-73b623172/">
+  <img align="left" alt="Satish Umagol Spotify" width="22px" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" />
+</a> -->
 <a href="https://www.linkedin.com/in/satish-umagol-73b623172/">
   <img align="left" alt="Satish Umagol discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
