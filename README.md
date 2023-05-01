@@ -192,14 +192,13 @@
 
 <p align="center">
 <a href="https://github.com/umagol/github-readme-stats">
-  <img width="400" align="" src="https://github-readme-stats.vercel.app/api?username=umagol&theme=dark" />
-  <img width="400" align="" src="https://github-readme-streak-stats.herokuapp.com/?user=umagol&theme=dark" />
+  <img width="400" height="200" align="" src="https://github-readme-stats.vercel.app/api?username=umagol&theme=dark" />
+  <img width="400" height="200" align="" src="https://github-readme-streak-stats.herokuapp.com/?user=umagol&theme=dark" />
 </a>
 </p>
 
 <h3 align="center"> ⚙️  GitHub Analytics </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=umagol&theme=react-dark" />
-
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=umagol&theme=react-dark" />
 <br/>
 
 <div align="center">
