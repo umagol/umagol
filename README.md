@@ -198,7 +198,7 @@
 </p>
 
 <h3 align="center"> ⚙️  GitHub Analytics </h3>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=umagol&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?theme=react-dark&username=umagol&area=true&hide_border=true" />
 <br/>
 
 <div align="center">
