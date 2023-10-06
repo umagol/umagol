@@ -25,7 +25,7 @@
 ### -  Social Accout Link
 
 <a href="https://twitter.com/umagolsatish">
-  <img align="left" alt="satish Umagol | Twitter" width="22px" src="https://img.icons8.com/?size=512&id=13963&format=svg" />
+  <img align="left" alt="satish Umagol | Twitter" width="22px" src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-Logo-Vector-01-2.jpg" />
 </a>
 <a href="https://stackoverflow.com/users/13600516/satish-umagol">
   <img align="left" alt="satish Umagol | stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
@@ -34,22 +34,23 @@
   <img align="left" alt="satish Umagol | Medium" width="22px" src="https://miro.medium.com/fit/c/262/262/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" />
 </a>
 <a href="https://www.linkedin.com/in/satish-umagol-73b623172/">
-  <img align="left" alt="Satish Umagol LinkedIN" width="22px" src="https://img.icons8.com/?size=512&id=13930&format=svg" />
+  <img align="left" alt="Satish Umagol LinkedIN" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />
 </a>
+
 <!-- <a href="https://www.linkedin.com/in/satish-umagol-73b623172/">
   <img align="left" alt="Satish Umagol Spotify" width="22px" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" />
 </a> -->
 <a href="https://discord.com/users/satishumagol">
-  <img align="left" alt="Satish Umagol discord" width="22px" src="https://img.icons8.com/?size=1x&id=65646&format=svg" />
+  <img align="left" alt="Satish Umagol discord" width="22px" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" />
 </a>
 <a href="https://dev.to/satishumagol">
-  <img  align="left" alt="Dev.to" title="Dev.to" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
+  <img  align="left" alt="Dev.to" title="Dev.to" width="22px" src="https://friconix.com/jpg/fi-swluxx-dev-to.jpg" />
 </a>
 <a href="https://github.com/umagol">
-  <img align="left" alt="Satish Umagol Portfolio" width="22px" src="https://img.icons8.com/?size=512&id=63777&format=svg" />
+  <img align="left" alt="Satish Umagol Portfolio" width="22px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />
 </a>
 <a href="https://www.npmjs.com/~satishumagol">
-  <img  align="left" alt="npm" title="npm"  width="22px" src="https://img.icons8.com/?size=512&id=24895&format=svg">
+  <img  align="left" alt="npm" title="npm"  width="22px" src="https://cdn.imgbin.com/16/10/14/imgbin-npm-node-js-computer-icons-computer-software-installation-others-2VzuFtQ94a0M4sjnjiT5ede4J.jpg">
 </a>
 
 <br/>
